@@ -19,3 +19,5 @@ I also applied 3 stemmers:
 To do a comparitive study
 
 The Ray_demo.py file is an attempt on using Ray with the Pre-Processing techniques.
+Using the ray library in the code for 1 particular code-block reduces the execution time to 46.195361%
+The code block seperates that text that will be used for text classification from the whole line of text.
