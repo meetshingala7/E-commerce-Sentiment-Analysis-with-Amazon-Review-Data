@@ -18,3 +18,4 @@ I also applied 3 stemmers:
 3. Lancaster stemmer 
 To do a comparitive study
 
+The Ray_demo.py file is an attempt on using Ray with the Pre-Processing techniques.
