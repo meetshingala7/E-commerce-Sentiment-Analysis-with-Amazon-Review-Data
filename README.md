@@ -1,4 +1,8 @@
 # E-commerce-Sentiment-Analysis-with-Amazon-Review-Data
+
+This is available in the Base_Code_on_small_dataset.ipynb (5000 Rows of Data)
+I am currently scaling the code up to around 36,00,000 rows of data
+
 The various Pre-Processing techniques used:
 1. Tokenize
 2. Removing all non-ascii characters (like Umlats)
