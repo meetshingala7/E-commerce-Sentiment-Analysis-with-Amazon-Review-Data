@@ -7,13 +7,11 @@
 <h3>Exploratory Data Analysis</h3>
 The project takes in a dataset from Kaggle of 4000 rows and 8 Columns of training data and 1000 rows testing data. There are initially 3 classes for classification. The 3 classes are Positive, Neutral and Negative. The column 'review.text' is used for classification. The dataset Majorly comprises of Positive Data points(3749) and the Neutral is converted into negative data since either customer likes the product or doesnt like the product. 
 <br>
-![image](https://github.com/meetshingala7/E-commerce-Sentiment-Analysis-with-Amazon-Review-Data/assets/123167152/7758f81d-43b0-4030-ab00-2a710917d154)>
-<br>
 1. There are a total of 23 Unique Categories which the dataset is made up from.
 2. There are 6541 unique words in the dataset.
 3. There are 6528800 total words in the dataset.
 
-<h3>Pre-Processing</h3>
+<h3>Pre-Processing</h3><br>
 The NLP techniques used were:
 1. Tokenization (using nltk.tokenize)
 2. Removal of all Non-Ascii Values like Umlats etc.
@@ -22,4 +20,3 @@ The NLP techniques used were:
 5. Removal of the stopwords from that dataset.
 6. Removal of all the digits.
 
-<>
