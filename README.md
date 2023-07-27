@@ -12,11 +12,11 @@ The project takes in a dataset from Kaggle of 4000 rows and 8 Columns of trainin
 3. There are 6528800 total words in the dataset.
 
 <h3>Pre-Processing</h3><br>
-The NLP techniques used were:
-1. Tokenization (using nltk.tokenize)
-2. Removal of all Non-Ascii Values like Umlats etc.
-3. Convert all the tokens to lowercase characters.
-4. Remove all the punctuation marks from text data.
-5. Removal of the stopwords from that dataset.
-6. Removal of all the digits.
+The NLP techniques used were:<br>
+1. Tokenization (using nltk.tokenize)<br>
+2. Removal of all Non-Ascii Values like Umlats etc.<br>
+3. Convert all the tokens to lowercase characters.<br>
+4. Remove all the punctuation marks from text data.<br>
+5. Removal of the stopwords from that dataset.<br>
+6. Removal of all the digits.<br>
 
