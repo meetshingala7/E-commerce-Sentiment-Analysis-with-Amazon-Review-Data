@@ -17,9 +17,9 @@ The following image displays the bias in the dataset towards positive comments.
 <h6>The project I am working as mentioned above has equal spread</h6>
 
 <br>
-1. There are a total of 23 Unique Categories which the dataset is made up from.
-2. There are 6541 unique words in the dataset.
-3. There are 6528800 total words in the dataset.
+1. There are a total of 23 Unique Categories which the dataset is made up from. <br>
+2. There are 6541 unique words in the dataset. <br>
+3. There are 6528800 total words in the dataset. <br>
 
 <h3>Pre-Processing</h3><br>
 The NLP techniques used were:<br>
