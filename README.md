@@ -20,3 +20,13 @@ The NLP techniques used were:<br>
 5. Removal of the stopwords from that dataset.<br>
 6. Removal of all the digits.<br>
 
+Here, I used the Snow Stemmer from sklearn.s
+
+
+| Models |Accuracy with TFIDF vectorizer  | Accuracy with CV vectorizer |
+| ------------- | ------------- | ------------- |
+| Multinomial Naive-Bayes | 94.59%  | 93.69%  |
+| Support Vector Machine | 94.39%  | 94.19%  |
+| K-Nearest Neighbours | 94.29% | 93.79% |
+| Multi layer Perceptron | 95.09% | 94.19% |
+| Random Forest Classifier | 93.69% | 93.69% |
