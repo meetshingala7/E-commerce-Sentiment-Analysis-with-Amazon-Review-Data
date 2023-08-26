@@ -30,7 +30,7 @@ The NLP techniques used were:<br>
 5. Removal of the stopwords from that dataset.<br>
 6. Removal of all the digits.<br>
 
-Here, I used the Snow Stemmer from sklearn.s
+Here, I used the Snow Stemmer from sklearn.stem.SnowballStemmer
 
 
 | Models |Accuracy with TFIDF vectorizer  | Accuracy with CV vectorizer |
@@ -43,7 +43,9 @@ Here, I used the Snow Stemmer from sklearn.s
 
 
 The Table of Precision
+
 |Model                   | Precision with TFIDF Vectorizer | Precision with CountVectorizer|
+| ------------- | ------------- | ------------- |
 |Multinomial Naive-Bayes | 0.8779                   | 0.9366                  |
 |Support Vector Machine  | 0.9409                   | 0.9386                  |
 |K-Nearest Neighbours                     | 0.9307                   | 0.9307                  |
@@ -51,7 +53,10 @@ The Table of Precision
 |Random Forest           | 0.8778                   | 0.8778                  |
 
 The Table of Recall
+
+
 |Model                   | Recall with TFIDF Vectorizer & Recall with CountVectorizer |
+| ------------- | ------------- | ------------- |
 |Multinomial Naive-Bayes | 0.9369                   | 0.9459                  |
 |Support Vector Machine  | 0.9439                   | 0.9419                  |
 |K-Nearest Neighbours    | 0.9429                   | 0.9429                  |
