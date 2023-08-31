@@ -9,9 +9,11 @@ The project takes in a dataset from Kaggle of 4000 rows and 8 Columns of trainin
 
 The following image displays the bias in the dataset towards positive comments.
 <h3> The Training data</h3>
+
 ![sb_countplot_train_data](https://github.com/meetshingala7/E-commerce-Sentiment-Analysis-with-Amazon-Review-Data/assets/123167152/41f2fe1a-df6e-45d7-859a-fe63644766dc)
 
 <h3> The Testing data</h3>
+
 ![sb_countplot_test_data](https://github.com/meetshingala7/E-commerce-Sentiment-Analysis-with-Amazon-Review-Data/assets/123167152/53f60746-3f74-485b-bc62-75a017620dae)
 
 <h6>The project I am working as mentioned above has equal spread</h6>
@@ -55,7 +57,7 @@ The Table of Precision
 The Table of Recall
 
 
-|Model                   | Recall with TFIDF Vectorizer & Recall with CountVectorizer |
+|Model                   | Recall with TFIDF Vectorizer | Recall with CountVectorizer |
 | ------------- | ------------- | ------------- |
 |Multinomial Naive-Bayes | 0.9369                   | 0.9459                  |
 |Support Vector Machine  | 0.9439                   | 0.9419                  |
